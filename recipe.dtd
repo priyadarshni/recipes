@@ -1,0 +1,13 @@
+<!ELEMENT Recipe (recipe+)>
+<!ELEMENT recipe (rname,serves,ingredients+,procedure+,hint+,madeby,photo)>
+<!ELEMENT rname (#PCDATA)>
+<!ELEMENT serves (#PCDATA)>
+<!ELEMENT ingredients (#PCDATA)>
+<!ELEMENT procedure (#PCDATA)>
+<!ELEMENT hint (#PCDATA)>
+<!ELEMENT madeby (#PCDATA)>
+<!ELEMENT photo (#PCDATA)*>
+<!ATTLIST photo type CDATA #IMPLIED>
+
+
+

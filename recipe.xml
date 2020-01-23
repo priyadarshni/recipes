@@ -1,0 +1,157 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="recipe.css"?>
+<?xml-stylesheet type="text/xsl" href="recipe.xslt"?>
+<!--<!DOCTYPE Recipe SYSTEM "recipe.dtd">-->
+<Recipe>
+<recipe>
+    <rname>Buttermilk Fried Sweet Onion Rings</rname>
+    <serves>4-6 as a side</serves>
+    <ingredients>2 large sweet onions (Vidalia, Texas or Mayan Sweet)</ingredients>
+    <ingredients>Approx. 1 quart buttermilk</ingredients>
+    <ingredients>4 cups vegetable oil for deep frying</ingredients>
+    <ingredients>1 1/2 cups all-purpose flour</ingredients>
+    <ingredients>1/4 cup cornmeal</ingredients>
+    <ingredients>1 Tbs finely minced fresh rosemary (optional but good)</ingredients>
+    <ingredients>Pinch salt</ingredients>
+    <ingredients>1/2 tsp ground cayenne</ingredients>
+    <ingredients>Salt to taste after fryingPinch salt</ingredients>
+    <procedure>Get started by cutting the tops and bottoms off of the onions, then peeling them and cutting them crosswise into rings about 1/2-inch thick. </procedure>
+    <procedure>Separate the slices onions into individual rings and place those into a large baking dish and add enough buttermilk to just about cover. </procedure>
+    <procedure>Separate the slices onions into individual rings and place those into a large baking dish and add enough buttermilk to just about cover. </procedure>
+    <procedure>
+Let the onions soak in the buttermilk for at least 15 minutes and, while that's happening, add 4 cups of vegetable oil to a deep stainless steel pot on the stovetop and slowly bring that up to 360 degrees. 
+</procedure>
+    <procedure>Use a bowl to combine 1 1/2 cups all-purpose flour with 1/4 cup cornmeal and 1 optional Tbs finely chopped fresh rosemary and a pinch of cayenne pepper and a pinch of salt and mix it up. </procedure>
+    <procedure>Use a deep fry thermometer to keep an eye on the temperature of the oil and also preheat the oven to 200 degrees and line a baking tray with paper towels, with a cooling rack on top, so you can keep the onion rings warm in the oven as you go. </procedure>
+    <procedure>When the oil is hot enough, dredge 5-6 onion rings at a time in the flour mixture and, once the oil does hit 360 degrees, very carefully add 1 onion ring at a time and let those fry along until they turn a nice golden brown. </procedure>
+    <procedure>You may have to adjust the heat a little bit as you're adding the onion rings so the oil stays at 360 degrees and once they're a nice golden brown, take them out of the oil and place them on the cooling rack, season with salt to taste and place the tray into the oven to keep warm as you're doing the other onion rings.</procedure>
+    
+    <hint>Use the leftover buttermilk for something like cornbread or biscuits instead of tossing it out.
+You may need to sift the dredging flour at some point during the process or add more flour as needed.
+</hint>
+    
+    <madeby>Dan Eaton</madeby>
+    <photo type="png">pic/onionring.png</photo>
+<!--    <photo type="png">pic/onionrig.png</photo>-->
+  
+<!--
+    <img src="pic/onionring.png"/>
+    </photo>
+-->
+    </recipe>
+    <recipe>
+    <rname>Chicken Linguine with Broccoli</rname>
+    <serves>4-6</serves>
+    <ingredients>1 pound linguine</ingredients>
+    <ingredients>2 Tbs minced garlic</ingredients>
+    <ingredients>1/2 cup chopped fresh parsley</ingredients>
+    <ingredients>4 cups small broccoli florets (see hints below)</ingredients>
+    <ingredients>1- 1 1/2 pounds boneless, skinless chicken breast meat, cut into 1/2-inch cubes</ingredients>
+    <ingredients>Salt and pepper for seasoning chicken</ingredients>
+    <ingredients>All-purpose flour for lightly dusting cubed, seasoned chicken</ingredients>
+    <ingredients>Olive oil as needed for sautéing chicken</ingredients>
+    <ingredients>3 cups chicken stock (or a little more as needed)</ingredients>
+    <ingredients>Red pepper flakes to taste</ingredients>
+    <ingredients>Grated parmesan cheese for garnish</ingredients>
+    <procedure>Get a large pot of salted water going on the stove top for cooking the linguine and, while that is coming up to a boil, finely mince 2 Tbs garlic, chop about 1/2 cup fresh parsley and cut 4 cups  </procedure>
+    <procedure>broccoli into small florets and then, lastly, cut the boneless, skinless chicken breast meat into 1/2-inch cubes</procedure>
+    <procedure>Season the cubed chicken with salt and pepper and give it a light dusting of all-purpose flour and then cook it in batches in a deep, heavy bottomed pot in a little olive oil on medium to medium high heat. 
+ </procedure>
+    <procedure>
+Once the water comes to a boil, add the linguine and stir that around to keep it from sticking.
+</procedure>
+    <procedure>Once all of the chicken is lightly browned, and out of the pan and resting on a clean plate, add 3 Tbs butter to the chicken pot, let that melt down. Add the minced garlic and cook that for a minute or so and then add about 3 cups chicken stock and bring it up to a simmer.</procedure>
+    <procedure>Once the stock does come to a simmer, add the broccoli florets and add the chicken back to the pan.</procedure>
+    <procedure>Keep your eye on the linguine and drain that when it's done and, once the broccoli and chicken are cooked through, add the drained, still hot linguine to that pot, add a little more olive oil, the chopped parsley, add salt and red pepper flakes to taste and toss to coat.</procedure>
+    <procedure>Serve in individual bowls with grated parmesan cheese.</procedure>
+    
+    <hint>You can make this without the broccoli if you like….but hey, broccoli is a super food!</hint>
+    
+    <madeby>Dan Eaton</madeby>
+    <photo type="png">pic/cl.png</photo>
+<!--    <photo type="png">pic/onionrig.png</photo>-->
+  
+<!--
+    <img src="pic/onionring.png"/>
+    </photo>
+-->
+    </recipe>
+    <recipe>
+    <rname>Italian Sausage, Zucchini and Rice Soup</rname>
+    <serves>6</serves>
+    <ingredients>Italian Sausage, Zucchini and Rice Soup</ingredients>
+    <ingredients>1 cup water</ingredients>
+    <ingredients>1/2 cup medium grain white rice (uncooked)</ingredients>
+    <ingredients>2 Italian sausage patties (or 2 links) crumbled</ingredients>
+    <ingredients>3/4-1 cup diced onion</ingredients>
+    <ingredients>2 medium zucchini, deseeded and cubed (see hints below)</ingredients>
+    <ingredients>olive oil for cooking veggies and sausage</ingredients>
+    <ingredients>1 cup canned diced tomatoes</ingredients>
+    <ingredients>salt and pepper to taste</ingredients>
+        <ingredients>grated parmesan cheese for garnish (optional)</ingredients>
+        <ingredients>dollop of basil pesto for garnish (optional)</ingredients>
+    <procedure>Add 4 cups of chicken or vegetable stock and 1 cup of water to a deep, heavy bottomed pot, add 1/2 cup medium grain white rice, bring that up to a simmer and let it cook along without a lid on top. </procedure>
+    <procedure>Once the rice is in the pot, add a splash of olive oil to a large, heavy bottomed soup pot, and cook the crumbled Italian sausage to brown that up. </procedure>
+    <procedure>Then take the sausage out of the pot and add about 3/4 cup of diced onion and 2 medium size, deseeded and diced zucchini and cook those to soften. </procedure>
+    <procedure>
+Add a little more olive oil to the vegetables if they need it and keep your eye on the rice, you want it to be just soft to the tooth, it'll take about 15 minutes to cook.
+</procedure>
+    <procedure>After a few minutes, when the zucchini is tender crisp, add 1 cup diced canned tomato, add the sausage back to the pot. Then very carefully add the stock and rice and let it simmer along for a few minutes, season to taste and it is good to go. </procedure>
+    <procedure>Serve it up with a sprinkling of grated parmesan cheese and an optional dollop of basil pesto. </procedure>
+    
+    <hint>Cut the ends off of the zucchini, cut then into quarters lengthwise, carefully slice off the seed section and continue to cut the quarters into 1/2 cubes.
+</hint>
+        <hint>Plan on eating this right away, otherwise the rice will continue to absorb the liquid. Add more stock or water if you need to.
+</hint>
+        <hint>Start the sausage at the same time (or before) you get the rice going to make sure the rice isn't done before the rest
+</hint>
+        <hint>Buy basil pesto premade or make your own by pureeing a good handful of basil leaves with a few walnuts or pinenuts, a small clove of garlic, a bit of grated parmesan cheese and just enough olive oil to give it a pesto consistency.
+</hint>
+    
+    <madeby>Dan Eaton</madeby>
+    <photo type="png">pic/it.png</photo>
+<!--    <photo type="png">pic/onionrig.png</photo>-->
+  
+<!--
+    <img src="pic/onionring.png"/>
+    </photo>
+-->
+    </recipe>
+    <recipe>
+    <rname>Paneer Butter Masala</rname>
+    <serves>1 bowl</serves>
+    <ingredients>3 tablespoons Butter</ingredients>
+    <ingredients>250 grams Paneer cubes (or Cottage Cheese)</ingredients>
+    <ingredients>3 Kashmiri Red Chilies</ingredients>
+    <ingredients>1 teaspoon Ginger Paste</ingredients>
+    <ingredients>1 teaspoon Garlic Paste</ingredients>
+    <ingredients>1 Bay leaves</ingredients>
+    <ingredients>1 inch Cinnamon Stick</ingredients>
+    <ingredients>3 Cloves</ingredients>
+    <ingredients>1 Onion, roughly chopped</ingredients>
+        <ingredients>6 Tomatoes, roughly chopped</ingredients>
+        <ingredients>1/2 teaspoon Chilli powder</ingredients>
+    <procedure>In a large pan or kadhai, heat a tablespoon of butter and a tablespoon of oil </procedure>
+    <procedure>Add red chillies, ginger, garlic paste and all the whole spices (bay leaves, cinnamon, cloves, cardamom and peppercorns). Alternatively, you can also wrap the spices in a muslin cloth and add them to the pan (take this out after the tomatoes are cooked down). Saute for a minute or two and add cashew nuts, poppy seeds (if using) and onions. Once the onions turn translucent, add the tomatoes. Mix well. </procedure>
+    <procedure>Cover and cook till the tomatoes start breaking down and the mixture starts leaving oil at the edges. Switch off the flame and set aside to cool. </procedure>
+    <procedure>
+Once cool enough to handle, fish out as many whole spices as possible, and blend the mixture to a smooth paste in a food processor or blender.
+</procedure>
+    <procedure>In the same pan, heat the remaining butter and add the blended paste prepared in step #4. Add garam masala powder, chili powder, turmeric, ketchup, salt along with 1/2 cup water. Bring this to a boil.</procedure>
+    <procedure>Once the curry comes to a boil, simmer and cook for 30 minutes, till the oil separates slightly. Cut the paneer into bite sized pieces, add it to the gravy and mix gently. </procedure>
+    <procedure>In another pan, dry roast the kasuri methi and grind it to a fine powder. Mix kasuri methi and fresh cream in the curry and switch off the flame. Serve hot.</procedure>
+    
+    <hint>Roma tomatoes work best for paneer butter masala because they are not as sour as the local varieties
+</hint>
+    
+    <madeby>Priyadarshni</madeby>
+    <photo type="jpg">pic/paneer.jpg</photo>
+<!--    <photo type="png">pic/onionrig.png</photo>-->
+  
+<!--
+    <img src="pic/onionring.png"/>
+    </photo>
+-->
+    </recipe>
+    
+</Recipe>
